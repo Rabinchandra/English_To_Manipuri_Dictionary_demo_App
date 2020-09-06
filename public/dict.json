@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "word": "Apple",
+    "meaning": "Hei makhal ama"
+  },
+  {
+    "id": 2,
+    "word": "Any",
+    "meaning": "Amahekta"
+  },
+  {
+    "word": "Absolutely",
+    "meaning": "Mapung Phaana, Thaanggei Sengnamak, Tasengna",
+    "id": 3
+  },
+  {
+    "word": "Actual",
+    "meaning": "Asengba, thaanggeisengba",
+    "id": 4
+  },
+  {
+    "word": "Actually",
+    "meaning": "Tasengna",
+    "id": 5
+  },
+  {
+    "word": "Awfully",
+    "meaning": "Yaamna, Yaamna Henna",
+    "id": 6
+  },
+  {
+    "word": "Always",
+    "meaning": "Matam Pumbada",
+    "id": 7
+  },
+  {
+    "word": "Advance",
+    "meaning": "Haana piba sel",
+    "id": 8
+  },
+  {
+    "word": "Adequate",
+    "meaning": "Matik chaana ogpa, chunaba",
+    "id": 9
+  },
+  {
+    "word": "Appetite",
+    "meaning": "Araamba (chak laamba), apaamba",
+    "id": 10
+  },
+  {
+    "word": "Anyhow",
+    "meaning": "Maong amada hekta, keinomba touduna, oige haiba ama oirabasu, thoklaba ama haiduna",
+    "id": 11
+  },
+  {
+    "word": "Abominable",
+    "meaning": "Tugatchaningai oiba",
+    "id": 12
+  },
+  {
+    "word": "Back",
+    "meaning": "Sougatpa, mateng piba",
+    "id": 13
+  },
+  {
+    "word": "Bag",
+    "meaning": "Lousinba, mai paakpa, khaoda haapchinba",
+    "id": 14
+  },
+  {
+    "word": "Behaviour",
+    "meaning": "Lamchat",
+    "id": 15
+  },
+  {
+    "word": "Chum",
+    "meaning": "Chaannaba marup",
+    "id": 16
+  },
+  {
+    "word": "Climax",
+    "meaning": "Khamthengba thaak natraga matol",
+    "id": 17
+  },
+  {
+    "word": "Character",
+    "meaning": "Lamchat",
+    "id": 18
+  },
+  {
+    "word": "Countinously",
+    "meaning": "Leptaba, areppa leitana",
+    "id": 19
+  },
+  {
+    "word": "Challenge",
+    "meaning": "Singnaba",
+    "id": 20
+  }
+]
